@@ -2,10 +2,7 @@
 
 [![Tableau Public](https://img.shields.io/badge/Tableau-Public-e97627?style=for-the-badge&logo=Tableau)](https://public.tableau.com/app/profile/harshita.joshi5538/viz/Uber_17774344572120/Dashboard1?publish=yes)
 
-## 📊 Dashboard Preview
-*(Replace the image below with your final screenshot if needed)*
 
-![Uber Dashboard Screenshot](Screenshot%202026-03-15%20at%201.22.16%E2%80%AFPM.png)
 
 ## 📌 Overview
 This repository contains a Tableau visualization project analyzing Uber trip data. The dashboard provides insights into trip patterns, ride volumes, and other key metrics to help understand ride-hailing dynamics. 
@@ -34,4 +31,3 @@ Explore the interactive dashboard here: **[Uber Dashboard on Tableau Public](htt
 
 ---
 *Created by Harshita Joshi*
-# Uber-Analysis
